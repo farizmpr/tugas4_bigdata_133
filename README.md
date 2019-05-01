@@ -1,7 +1,7 @@
 ### TUGAS 4 BIG DATA<br>
 server.py : menginisialisasi server web CherryPy yang menjalankan Flask app.py untuk membuat konteks engine.py berbasis Spark.<br> 
 engine.py : inti dari sistem dan menyimpan semua perhitungan yang ada. <br>
-app.py : penghubung server.py dan engine.py, sebagai tempat routing.<br>
+app.py : sebagai tempat routing.<br>
 
 How to run :<br>
 Run 'python server.py'<br>
